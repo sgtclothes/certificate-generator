@@ -1,0 +1,13 @@
+@media print {
+    #title, #title * {
+        display: none;
+    }
+
+    #certificate, #certificate * {
+        display: block;
+    }
+
+    #button, #button * {
+        display: none;
+    }
+}
